@@ -16,6 +16,8 @@ Expected outcome:
 Evaluation of the source code:
 
 	•	Module 1 (35%): Availability in trusted news sources 
-										Scoring according to the number of mentions in news sources
+		Scoring according to the number of mentions in news sources
 										
 	•	Module 2 (65%) : AI Scoring 
+
+Link to the slides: https://drive.google.com/file/d/1yPo8qMJtRc7MiXpWQ84251X07UMVqbza/view?usp=sharing
