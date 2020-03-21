@@ -1,5 +1,5 @@
 # Fake-news-detector
-Description of the project 
+# Description of the project 
 
 Fake news is one of the most trending media problems; it can have a very harmful effect since we cannot distinguish it from real news. This is where the fake news detector comes into play, to check the credibility of suspicious news before publishing it to the public. AI offers promising solutions for such tasks, especially in automating the fact checking process.
 The goal of this project is to exploit the power of AI to fight the fake news problem. Python 3.x is the language of choice for this project.
