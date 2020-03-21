@@ -6,7 +6,7 @@ The goal of this project is to exploit the power of AI to fight the fake news pr
 
 Expected outcome:
 	
-	•	Web page:  check button and textbox (see figure below)
+	•	Web page:  check button and textbox
 	
 	•	Input: news article (URL)
 	
