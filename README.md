@@ -1,4 +1,4 @@
-# IN104 - Project 2: Fake-news-detector
+# IN104 - Project 2: Fake News Detector
 # Description of the project 
 
 Fake news is one of the most trending media problems; it can have a very harmful effect since we cannot distinguish it from real news. This is where the fake news detector comes into play, to check the credibility of suspicious news before publishing it to the public. AI offers promising solutions for such tasks, especially in automating the fact checking process.
