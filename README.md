@@ -11,7 +11,9 @@ Expected outcome:
 	•	Input: news article (URL)
 	
 	•	Output: Score (0 to 100) for the credibility of the news 
-	
+# Useful links
+slides: https://drive.google.com/file/d/1yPo8qMJtRc7MiXpWQ84251X07UMVqbza/view?usp=sharing
+
 # Contact 
 nermineali.lb@gmail.com
-Link to the slides: https://drive.google.com/file/d/1yPo8qMJtRc7MiXpWQ84251X07UMVqbza/view?usp=sharing
+
